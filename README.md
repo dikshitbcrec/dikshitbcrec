@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, Welcome to my Github page</h1> 
 
-## :wave: About Me ## :wave: About Me 
+## :wave: About Me
 <a href="https://www.linkedin.com/in/dikshit-kumar-a7a75b195/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 
-- :octocat: I am a full-stack developer working with Java, Spring Boot, React.js, and TypeScript. Along with this I'm also highly interested in full stack, backend engineering and have built quite a few projects on it.
+- :octocat: I’m a full-stack developer with a strong foundation in Java, Spring Boot, React.js, and TypeScript. I’m deeply passionate about building scalable web applications and have a keen interest in both backend engineering and full-stack development. I've worked on several hands-on projects that reflect my commitment to clean architecture, performance, and real-world problem solving.
 - 👩‍💻 I am always open to collaborating on projects and innovative ideas.
 - ⚡ Reach out to me at **dikshitbcrec@gmail.com**
 
@@ -36,7 +36,7 @@
 
 ## 📈Github Stats
 <p align="center">
-<a href="https://github.com/anusharma1729">
+<a href="https://github.com/dikshitbcrec">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dikshitbcrec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dikshitbcrec&layout=compact&langs_count=8&theme=algolia"/>
 </a>

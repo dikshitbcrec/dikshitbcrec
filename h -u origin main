@@ -1,0 +1,26 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 5c4463d..0345f3e 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,10 +1,10 @@[m
+ <h1 align="center">Hi there 👋, Welcome to my Github page</h1> [m
+ [m
+[31m-## :wave: About Me ## :wave: About Me [m
+[32m+[m[32m## :wave: About Me[m
+ <a href="https://www.linkedin.com/in/dikshit-kumar-a7a75b195/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>[m
+ [m
+ [m
+[31m-- :octocat: I am a full-stack developer working with Java, Spring Boot, React.js, and TypeScript. Along with this I'm also highly interested in full stack, backend engineering and have built quite a few projects on it.[m
+[32m+[m[32m- :octocat: I’m a full-stack developer with a strong foundation in Java, Spring Boot, React.js, and TypeScript. I’m deeply passionate about building scalable web applications and have a keen interest in both backend engineering and full-stack development. I've worked on several hands-on projects that reflect my commitment to clean architecture, performance, and real-world problem solving.[m
+ - 👩‍💻 I am always open to collaborating on projects and innovative ideas.[m
+ - ⚡ Reach out to me at **dikshitbcrec@gmail.com**[m
+ [m
+[36m@@ -36,7 +36,7 @@[m
+ [m
+ ## 📈Github Stats[m
+ <p align="center">[m
+[31m-<a href="https://github.com/anusharma1729">[m
+[32m+[m[32m<a href="https://github.com/dikshitbcrec">[m
+   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dikshitbcrec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>[m
+   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dikshitbcrec&layout=compact&langs_count=8&theme=algolia"/>[m
+ </a>[m
