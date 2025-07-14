@@ -37,7 +37,7 @@
 ## 📈Github Stats
 <p align="center">
 <a href="https://github.com/dikshitbcrec">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dikshitbcrec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dikshitbcrec&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dikshitbcrec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dikshitbcrec&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
